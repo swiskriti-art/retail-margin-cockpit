@@ -2,8 +2,6 @@
 
 A governed margin and inventory model for retail and DTC teams: a tested dbt star schema, a DAX measure library, and a Power BI semantic model with row-level security, all built on reproducible synthetic POS, Shopify and inventory data.
 
-[![CI](https://github.com/SlateGitOrg/retail-margin-cockpit/actions/workflows/ci.yml/badge.svg)](https://github.com/SlateGitOrg/retail-margin-cockpit/actions/workflows/ci.yml)
-
 ## Why
 
 At small and mid-sized retailers, "what is our margin?" is a multi-hour exercise. POS exports, Shopify exports and a hand-maintained inventory ledger never join cleanly because product IDs and channel names differ between systems. Finance and Ops end up with different margin numbers, the stockout report is stale by the time it is built, and a regional manager gets a hand-filtered spreadsheet that is one missed filter away from leaking company-wide numbers.
@@ -140,9 +138,3 @@ tests/             pytest suite: generator, dbt build and test, DAX/model checks
 ## License
 
 MIT - see [LICENSE](LICENSE).
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with 6+ years of professional experience building automated pipelines, controls and dashboards. His work includes automating key risk indicator tracking and reconciliation across 50M+ records monthly, reducing operational cycle time by 35%, and delivering reporting automation that saved $180K annually.
-
-For project questions, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).

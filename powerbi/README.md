@@ -75,15 +75,3 @@ for the unrestricted `ALL` case).
   toggling visibility of the `Revenue Below Margin Floor` KPI card and an
   accompanying warning-colored border, for a "call out the risk" view
   used in the monthly finance review.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with 6+ years of professional
-experience building automated pipelines, controls, and dashboards. His
-work includes risk indicator tracking and reconciliation automation,
-large-scale data processing, and reporting automation.
-
-For project questions or collaboration:
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
